@@ -1,3 +1,4 @@
+# this code prints the largest one
 a = int (input('num 1'))
 b = int (input('num 2'))
 c = int (input('num 3'))
